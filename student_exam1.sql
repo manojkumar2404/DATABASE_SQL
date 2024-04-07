@@ -1,4 +1,4 @@
-create database college
+employeecreate database college
 use college
 
 create table student
